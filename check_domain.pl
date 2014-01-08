@@ -1,8 +1,8 @@
 #!/usr/bin/perl
 
 use POSIX;
-#use strict;
-#use warnings;
+use strict;
+use warnings;
 use feature qw(say);
 
 my $domain = $ARGV[0];
